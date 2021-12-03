@@ -1,0 +1,2 @@
+* Day 3 is quite slow, as it repeatedly scans strings.
+  Maybe try to speed it up?
